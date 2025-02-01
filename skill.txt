@@ -1,1 +1,3 @@
 belajar git dasn github
+belajar tailwind
+belajar fundamental react

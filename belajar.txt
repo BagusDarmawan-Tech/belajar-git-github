@@ -1,2 +1,3 @@
-satu dua tiga
+satu dua 
 empat lima enam ( mencoba edit )
+menghapus kata tiga 
